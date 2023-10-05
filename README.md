@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Braian Orona</h1>
 <h3 align="center">A passionate backend developer from Argentina 🧉☕</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=braianorona&label=Profile%20views&color=0e75b6&style=flat" alt="braianorona" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=braianorona&icon=0&color=0" alt="braianorona" /> </p>
 
 # 💫 About Me:
 
