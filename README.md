@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a **payment architecture project with banks**
 
-- 🌱 I’m currently learning **Spring Batch, React.js**
+- 🌱 I’m currently learning **Spring Batch, Go, React.js**
 
 - 📫 How to reach me **braianorona@gmail.com**
 
